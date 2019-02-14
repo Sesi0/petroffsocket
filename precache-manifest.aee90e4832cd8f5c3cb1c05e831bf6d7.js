@@ -24,7 +24,7 @@ self.__precacheManifest = [
     "url": "/petroffsocket/static/css/2.453daf39.chunk.css"
   },
   {
-    "revision": "db6dbe9f448541b39cb0f8175aaf5244",
+    "revision": "d2046524f03e198532d7bfbd3e7e17bc",
     "url": "/petroffsocket/index.html"
   }
 ];

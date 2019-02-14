@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/3.6.3/workbox-sw.js");
 
 importScripts(
-  "/petroffsocket/precache-manifest.792b2f4dd489d334751485c8065a192f.js"
+  "/petroffsocket/precache-manifest.aee90e4832cd8f5c3cb1c05e831bf6d7.js"
 );
 
 workbox.clientsClaim();
