@@ -8,23 +8,23 @@ self.__precacheManifest = [
     "url": "/petroffsocket/static/js/runtime~main.0369b4c5.js"
   },
   {
-    "revision": "1c0cbc51bc40eb94b1f3",
-    "url": "/petroffsocket/static/js/main.1c0cbc51.chunk.js"
+    "revision": "4082c92b136b13034d96",
+    "url": "/petroffsocket/static/js/main.4082c92b.chunk.js"
   },
   {
     "revision": "e589dc4387052e568355",
     "url": "/petroffsocket/static/js/2.e589dc43.chunk.js"
   },
   {
-    "revision": "1c0cbc51bc40eb94b1f3",
-    "url": "/petroffsocket/static/css/main.6b85e96e.chunk.css"
+    "revision": "4082c92b136b13034d96",
+    "url": "/petroffsocket/static/css/main.07318036.chunk.css"
   },
   {
     "revision": "e589dc4387052e568355",
     "url": "/petroffsocket/static/css/2.453daf39.chunk.css"
   },
   {
-    "revision": "f266d39e9dfc46f8a13468ca8b96e860",
+    "revision": "db6dbe9f448541b39cb0f8175aaf5244",
     "url": "/petroffsocket/index.html"
   }
 ];

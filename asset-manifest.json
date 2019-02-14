@@ -1,16 +1,16 @@
 {
-  "main.css": "/petroffsocket/static/css/main.6b85e96e.chunk.css",
-  "main.js": "/petroffsocket/static/js/main.1c0cbc51.chunk.js",
-  "main.js.map": "/petroffsocket/static/js/main.1c0cbc51.chunk.js.map",
+  "main.css": "/petroffsocket/static/css/main.07318036.chunk.css",
+  "main.js": "/petroffsocket/static/js/main.4082c92b.chunk.js",
+  "main.js.map": "/petroffsocket/static/js/main.4082c92b.chunk.js.map",
   "runtime~main.js": "/petroffsocket/static/js/runtime~main.0369b4c5.js",
   "runtime~main.js.map": "/petroffsocket/static/js/runtime~main.0369b4c5.js.map",
   "static/css/2.453daf39.chunk.css": "/petroffsocket/static/css/2.453daf39.chunk.css",
   "static/js/2.e589dc43.chunk.js": "/petroffsocket/static/js/2.e589dc43.chunk.js",
   "static/js/2.e589dc43.chunk.js.map": "/petroffsocket/static/js/2.e589dc43.chunk.js.map",
   "index.html": "/petroffsocket/index.html",
-  "precache-manifest.20cc2aca752498e050ba1d7cab5fdeaf.js": "/petroffsocket/precache-manifest.20cc2aca752498e050ba1d7cab5fdeaf.js",
+  "precache-manifest.792b2f4dd489d334751485c8065a192f.js": "/petroffsocket/precache-manifest.792b2f4dd489d334751485c8065a192f.js",
   "service-worker.js": "/petroffsocket/service-worker.js",
   "static/css/2.453daf39.chunk.css.map": "/petroffsocket/static/css/2.453daf39.chunk.css.map",
-  "static/css/main.6b85e96e.chunk.css.map": "/petroffsocket/static/css/main.6b85e96e.chunk.css.map",
+  "static/css/main.07318036.chunk.css.map": "/petroffsocket/static/css/main.07318036.chunk.css.map",
   "static/media/logo.png": "/petroffsocket/static/media/logo.cbfc45e5.png"
 }
